@@ -29,7 +29,7 @@ exports.COLOR_THEMES = {
   reddie: {
     colors: {
       primary: '#FF4D4D',
-      'gradient-1': '#FFC700',
+      'gradient-1': '#FFC705',
       'gradient-2': '#FF85DD',
       'gradient-3': '#FF85DD',
       'gradient-4': '#FF8585',
@@ -41,7 +41,7 @@ exports.COLOR_THEMES = {
       'gradient-1': '#FFCC81',
       'gradient-2': '#00F37F',
       'gradient-3': '#00F37F',
-      'gradient-4': '#FFCC81',
+      'gradient-4': '#FFCC85',
     },
   },
 };
